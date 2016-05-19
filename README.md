@@ -1,3 +1,6 @@
+`this is a draft, don't take it too seriously`
+---
+
 ###DevHack: Write non-disposable code with friends.  
 > Code challenges sites are cute but they are not good neither for building a portfolio or making something useful for yourself and your friends. - Abraham van Hodgenville  
 
@@ -5,8 +8,6 @@ Create useful software by participating in **DevHack**
 
 There are two ways:
 
-`this is a draft, don't take it too seriously`
----
 ####1) You have an Idea for a project
 Follow these steps
 
