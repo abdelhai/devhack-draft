@@ -34,4 +34,4 @@ Ask people in #devchat and in r/devchat your questions. Also check out the mento
  
 ### Voting, Winners and prizes
 tbd
-daueration: 2 weeks. I will talk with a sponsor.
+duration: 2 weeks. I will talk with a sponsor.
