@@ -34,3 +34,7 @@ Ask people in [#devchat](http://devchat.devolio.net/) and in [/r/devchat](https:
 ### Voting, Winners and prizes
 Duration: 2 weeks. 
 Prizes? Sonsors? TBD/TBA.  
+
+### Notes
+
+- Don't forget to **watch** this repo to stay uptdates. Also **star** it while you're at it.
