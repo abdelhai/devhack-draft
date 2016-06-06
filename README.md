@@ -33,7 +33,7 @@ Ask people in [#devchat](http://devchat.devolio.net/) and in [/r/devchat](https:
  
 ### Voting, Winners and prizes
 Duration: 2 weeks. 
-Prizes? Sonsors? TBD/TBA.  
+Prizes? Sponsors? TBD/TBA.  
 
 ### Notes
 
