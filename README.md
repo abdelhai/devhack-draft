@@ -27,10 +27,10 @@ Tips:
  2. Find a project you're interested in and contact people with ideas (via Slack, email, GH issue)
  3. Start coding!
 
-### ⚡️💥Use the --force, dev! 
+### ⚡️💥 Use the --force, dev! 
 Ask people in [#devchat](http://devchat.devolio.net/) and in [/r/devchat](https://www.reddit.com/r/devchat) your questions. Also check out the mentors listed in the members list.
  
  
 ### Voting, Winners and prizes
-tbd
-duration: 2 weeks. I will talk with a sponsor.
+Duration: 2 weeks. 
+Prizes? Sonsors? TBD/TBA.  
