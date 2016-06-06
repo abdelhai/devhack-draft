@@ -1,6 +1,5 @@
-`this is a draft, don't take it too seriously`
----
-
+![devhack banner](https://s3-us-west-1.amazonaws.com/devhack/devhack1.png)
+  
 ###DevHack: Write non-disposable code with friends.  
 > Code challenges sites are cute but they are not good neither for building a portfolio or making something useful for yourself and your friends. - Abraham van Hodgenville  
 
