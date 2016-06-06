@@ -11,7 +11,7 @@ There are two ways:
 Follow these steps
 
 1. Create a repo  with a README.md describing what your idea is and what you are looking for. (see this example)
-2. Go to the **[Participators list](#)** and submit your idea/project and your details. (send PR)
+2. Go to the **[DevHackers List](#)** and submit your idea/project and your details. (send PR)
 3. Find a team, create a waffle.io board and start hacking!
 
 Tips:
@@ -23,7 +23,7 @@ Tips:
 ####2) You want to join others with their projects
  Follow these steps:
  
- 1. Head over to **[Participators List](#)** and submit your details.
+ 1. Head over to **[DevHackers List](#)** and submit your details.
  2. Find a project you're interested in and contact people with ideas (via Slack, email, GH issue)
  3. Start coding!
 
